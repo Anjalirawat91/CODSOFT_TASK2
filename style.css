@@ -18,8 +18,6 @@ body{
     line-height:1.6;
 }
 
-/* Navbar */
-
 header{
     position:fixed;
     width:100%;
@@ -65,7 +63,6 @@ header{
     color:#38bdf8;
 }
 
-/* Hero */
 
 .hero{
     min-height:100vh;
@@ -116,7 +113,6 @@ header{
     box-shadow:0 15px 35px rgba(0,0,0,.3);
 }
 
-/* About */
 
 .about{
     padding:100px 10%;
@@ -137,7 +133,6 @@ header{
     color: #1e3a8a;
 }
 
-/* Services */
 
 .services{
     padding:100px 10%;
@@ -180,7 +175,6 @@ header{
     margin-bottom:15px;
 }
 
-/* Contact */
 
 .contact{
     padding:100px 10%;
@@ -224,7 +218,6 @@ form button:hover{
     background:#0f172a;
 }
 
-/* Footer */
 
 footer{
     background:#0f172a;
@@ -265,8 +258,6 @@ footer p{
 
 
 
-/* Responsive */
-
 @media(max-width:900px){
 
 .hero{
@@ -301,8 +292,6 @@ footer p{
 
 
 
-
-/* Features */
 
 .features{
     padding:100px 10%;
@@ -341,7 +330,7 @@ footer p{
     margin-bottom:20px;
 }
 
-/* CTA */
+
 
 .cta{
     background:linear-gradient(135deg,#3e68c4,#1e3a8a);
@@ -362,7 +351,6 @@ footer p{
 }
 
 
-/* Statistics */
 
 .stats{
     display:flex;
@@ -390,9 +378,6 @@ footer p{
 
 
 
-
-
-/* ================= Hamburger Menu ================= */
 
 .menu-btn{
     display:none;
@@ -452,7 +437,6 @@ footer p{
 }
 
 
-/* ===== Scroll Reveal ===== */
 
 .hidden{
     opacity:0;
@@ -466,7 +450,6 @@ footer p{
 }
 
 
-/* ================= Back To Top Button ================= */
 
 #topBtn{
     position:fixed;
